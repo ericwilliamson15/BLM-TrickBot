@@ -86,7 +86,7 @@
 				},
 				"1": {
 					"type": "artifact",
-					"payload_bin": "localhost:accountId:911534260404,accessKeyId:ASIA5IO5NAC2OIBXQ4NY,userName:ADMIN,sessionContext:{attributes:{mfaAuthenticated:false,creationDate:2020-09-28T13:40:25Z}},invokedBy:ADMIN},eventTime:2020-06-09T21:08:04Z,eventSource:VirtualProtectEX,eventName:GetObject,awsRegion:us-west-2,sourceIPAddress:67.229.97.229,userAgent:[aws-cli/1.15.57 Python/2.7.14+ Linux/4.15.0-kali2-amd64 botocore/1.10.56],TRICKBOT INSTALLED SUCCESS EXFILTRATION COMING SOON"
+					"payload_bin": "localhost:accountId:911534260404,accessKeyId:ASIA5IO5NAC2OIBXQ4NY,userName:ADMIN,sessionContext:{attributes:{mfaAuthenticated:false,creationDate:2020-09-28T13:40:25Z}},invokedBy:ADMIN},eventTime:2020-06-09T21:08:04Z,eventSource:VirtualProtectEX,eventName:GetObject,awsRegion:us-west-2,sourceIPAddress:67.229.97.229,userAgent:[aws-cli/1.15.57 Python/2.7.14+ Linux/4.15.0-kali2-amd64 botocore/1.10.56],4Q2020EarningAnnouncement.pdf,EmployeeSalaries.pdf,EmployeeCCinfo.pdf"
 				},
 				"2": {
 					"hashes": {
